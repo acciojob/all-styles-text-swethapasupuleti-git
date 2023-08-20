@@ -2,7 +2,8 @@
 /* Your CSS Code here. */
 .main{
  Width: 200px;
-	border-left:5px green;
+	border-left-width:5px;
+	border-left-color:green;
 Background-color: purple;
 
 Padding: 10px;
