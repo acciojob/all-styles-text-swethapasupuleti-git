@@ -1,10 +1,11 @@
 
 /* Your CSS Code here. */
 .main{
- Width: 200px;
+    Width: 200px;
+	border-style: solid;
 	border-left-width:5px;
 	border-left-color:green;
-Background-color: purple;
+    Background-color: purple;
 
 Padding: 10px;
 }
